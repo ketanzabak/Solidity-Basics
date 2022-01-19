@@ -4,6 +4,7 @@ contract VariablesExample{
     string public message;
     uint public number;
 
+    // constructor.
     constructor() public{
         message = 'String example';
         number = 20;
