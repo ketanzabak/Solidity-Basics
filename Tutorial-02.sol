@@ -24,4 +24,5 @@ contract OperatorExample{
 
     // apart from above operators there are many other operators like bitwise operators(AND, OR, XOR, etc), 
     // Logical operator (&&, ||, !)
+    
 }
